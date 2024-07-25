@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Laravel projects**
 
-- 📝 I regularly write articles on my [Blog](https://universityproyectx.blogspot.com/ "Blog")
+- 📝 I regularly write articles on my [Blog](#S"Blog")
 
 - 💬 Ask me about **Laravel, Livewire, Inertia and Vue**
 
-- 📫 How to reach me **arcangelrs21@gmail.com**
+- 📫 How to reach me **jhac.25@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
