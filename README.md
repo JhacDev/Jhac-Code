@@ -37,9 +37,4 @@
 ---
 
 ---
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  💞you are the best💞
-  </pre>
-</details>
+
